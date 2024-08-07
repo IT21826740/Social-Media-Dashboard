@@ -1,6 +1,3 @@
-Here's a sample README file for your project:
-
-```markdown
 # Social Media Dashboard
 
 A social media dashboard interface built with HTML, CSS, and JavaScript.
@@ -104,9 +101,3 @@ This project is licensed under the MIT License.
 
 - Inspired by social media platforms and modern UI design.
 
-## Contact
-
-If you have any questions or feedback, feel free to contact me at [your-email@example.com].
-```
-
-Make sure to replace `https://github.com/yourusername/social-media-dashboard.git` with the actual URL of your GitHub repository, and `your-email@example.com` with your contact email. This README provides a clear overview of your project, its features, installation steps, and usage instructions.
